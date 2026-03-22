@@ -1,3 +1,59 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://ogginews.com/"
+languageCode = "it-IT"
+title = "OggINews"
+theme = "PaperMod"
+
+[params]
+    description = "Le notizie italiane e internazionali aggiornate in tempo reale"
+    mainSections = ["ultimora", "attualita", "curiosita", "economia", "guerre", "scienza"]
+
+    [params.homeInfoParams]
+        Title = "OggINews · Ultima ora"
+        Content = "Tutte le notizie in ordine cronologico, per una visione globale."
+
+[[menu.main]]
+    identifier = "ultimora"
+    name = "Ultima ora"
+    url = "/ultimora/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "attualita"
+    name = "Attualità"
+    url = "/attualita/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "curiosita"
+    name = "Curiosità"
+    url = "/curiosita/"
+    weight = 25
+
+[[menu.main]]
+    identifier = "economia"
+    name = "Economia"
+    url = "/economia/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "guerre"
+    name = "Guerre"
+    url = "/guerre/"
+    weight = 35
+
+[[menu.main]]
+    identifier = "scienza"
+    name = "Scienza"
+    url = "/scienza/"
+    weight = 40
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+canonifyURLs = false
+relativeURLs = false
