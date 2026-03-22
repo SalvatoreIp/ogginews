@@ -6,8 +6,8 @@ description: "L'amministrazione Trump sta preparando una squadra di negoziatori 
 categories: ["guerre"]
 tags: ["trump", "iran", "negoziati", "geopolitica", "medio oriente"]
 cover:
-  image: '/immagini/trump-prepara-squadra-negoziati-con-liran-le-sei-condizioni-usa.jpg'
-  alt: "Immagine per Trump prepara squadra negoziati con l'Iran: le sei condizioni USA"
+ image: /immagini/trump-prepara-squadra-negoziati-con-liran-le-sei-condizioni-usa.jpg
+ alt: "Trump prepara squadra negoziati con l'Iran: le sei condizioni USA"
 ---
 
 ## Introduzione
