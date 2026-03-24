@@ -33,7 +33,7 @@ categories: ["$SECTION"]
 tags: []
 cover:
   image: '/immagini/$SLUG.jpg'
-  alt: 'Immagine per $TITLE'
+  alt: "Immagine per $TITLE"
 ---
 
 $BODY
