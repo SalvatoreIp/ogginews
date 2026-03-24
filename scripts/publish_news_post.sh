@@ -32,7 +32,7 @@ description: ""
 categories: ["$SECTION"]
 tags: []
 cover:
-  image: '/immagini/$SLUG.jpg'
+  image: /immagini/$SLUG.jpg
   alt: "Immagine per $TITLE"
 ---
 
