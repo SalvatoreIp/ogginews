@@ -6,7 +6,7 @@ description: "Il cantautore genovese si è spento a 91 anni. Autore di successi 
 categories: ["attualita"]
 tags: ["musica", "cantautori", "cultura", "Italia", "morti", "addio"]
 cover:
-  image: '/immagini/addio-a-gino-paoli-maestro-della-canzone-dautore-italiana.jpg'
+  image: /immagini/addio-a-gino-paoli-maestro-della-canzone-dautore-italiana.jpg
   alt: "Immagine per Addio a Gino Paoli, maestro della canzone d'autore italiana"
 ---
 

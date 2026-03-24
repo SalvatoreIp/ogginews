@@ -1,6 +1,7 @@
-baseURL = "https://tuodominio.it/" # da sostituire dopo con dominio reale
+baseURL = "https://ogginews.com/"  # o il tuo dominio vero
 languageCode = "it-it"
-title = "Notizie Italiane AI"
+title = "OggINews"
+
 theme = "paper"
 
 [taxonomies]
@@ -13,6 +14,7 @@ theme = "paper"
   term = ["HTML", "RSS"]
 
 [params]
-  description = "Notizie in tempo reale generate da AI - Ultim'ora, Guerre, Attualità, Scienza, Curiosità, Economia"
+  description = "Notizie in tempo reale generate da AI - Ultim'ora, Guerre, Attualità, Economia"
   author = "OpenClaw News Bot"
-  keywords = ["notizie", "ultim'ora", "guerre", "attualità", "scienza", "curiosità", "economia"]
+  keywords = ["notizie", "ultim'ora", "guerre", "attualità", "economia"]
+  mainSections = ["guerre", "economia", "attualita", "scienza", "curiosita"]
