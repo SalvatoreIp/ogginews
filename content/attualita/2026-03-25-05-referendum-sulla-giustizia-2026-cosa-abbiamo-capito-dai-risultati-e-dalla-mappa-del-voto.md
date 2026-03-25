@@ -6,8 +6,8 @@ description: "Il No vince con il 53,7% al referendum sulla giustizia. Affluenza 
 categories: ["attualita"]
 tags: ["referendum", "giustizia", "politica", "Italia", "voto", "riforma"]
 cover:
-  image: /immagini/referendum-sulla-giustizia-2026-cosa-abbiamo-capito-dai-risultati-e-dalla-mappa-del-voto.jpg
-  alt: "Immagine per Referendum sulla giustizia 2026: cosa abbiamo capito dai risultati e dalla mappa del voto"
+  image: /immagini/referendum-sulla-giustizia-2026-cosa-abbiamo-capito-dai-risultati-e-dalla-mappa-del-voto.png
+  alt: "Bandiera italiana, simbolo del referendum costituzionale sulla giustizia"
 ---
 
 
