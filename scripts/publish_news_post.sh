@@ -3,6 +3,8 @@ TITLE="$1"
 BODY="$2"
 SECTION="${3:-attualita}"
 IMAGE_PATH="${4:-}"
+DESCRIPTION="${5:-}"
+TAGS="${6:-}"
 
 cd /home/salvatore/notizie-italiane || exit 1
 
@@ -18,6 +20,7 @@ HOUR=$(date -u +"%H")
 FILE="content/$SECTION/$DATEONLY-$HOUR-$SLUG.md"
 
 mkdir -p static/immagini
+mkdir -p "content/$SECTION"
 
 if [ -n "$IMAGE_PATH" ] && [ -f "$IMAGE_PATH" ]; then
   cp "$IMAGE_PATH" "static/immagini/$SLUG.jpg"
@@ -28,9 +31,9 @@ cat > "$FILE" << MD
 title: "$TITLE"
 date: $DATE
 draft: false
-description: ""
+description: "$DESCRIPTION"
 categories: ["$SECTION"]
-tags: []
+tags: [$TAGS]
 cover:
   image: /immagini/$SLUG.jpg
   alt: "Immagine per $TITLE"
@@ -44,4 +47,6 @@ chown salvatore:salvatore "$FILE"
 
 CHARS=$(wc -m < "$FILE")
 echo "✅ $FILE creato! ($CHARS caratteri)"
+echo "📋 description: $DESCRIPTION"
+echo "🏷️  tags: $TAGS"
 echo "🔥 Prossimo: git add . && git commit -m '$TITLE' && git push"
