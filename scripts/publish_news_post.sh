@@ -26,6 +26,8 @@ if [ -n "$IMAGE_PATH" ] && [ -f "$IMAGE_PATH" ]; then
   cp "$IMAGE_PATH" "static/immagini/$SLUG.jpg"
 fi
 
+BODY_REAL=$(printf '%b' "$BODY")
+
 cat > "$FILE" << MD
 ---
 title: "$TITLE"
@@ -39,7 +41,7 @@ cover:
   alt: "Immagine per $TITLE"
 ---
 
-$BODY
+$BODY_REAL
 MD
 
 chmod 644 "$FILE"
