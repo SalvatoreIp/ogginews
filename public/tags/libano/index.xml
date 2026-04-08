@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Libano on OggINews</title><link>https://ogginews.com/tags/libano/</link><description>Recent content in Libano on OggINews</description><generator>Hugo</generator><language>it-IT</language><lastBuildDate>Tue, 31 Mar 2026 04:01:00 +0000</lastBuildDate><atom:link href="https://ogginews.com/tags/libano/index.xml" rel="self" type="application/rss+xml"/><item><title>Attacco nel Sud Libano: Quattro Soldati Israeliani Uccisi</title><link>https://ogginews.com/guerre/2026-03-31-04-attacco-sud-libano-soldati-israeliani/</link><pubDate>Tue, 31 Mar 2026 04:01:00 +0000</pubDate><guid>https://ogginews.com/guerre/2026-03-31-04-attacco-sud-libano-soldati-israeliani/</guid><description>Quattro soldati israeliani uccisi in un attacco nel sud del Libano, con tre feriti. L&amp;#39;incidente aumenta le tensioni tra Israele e Hezbollah nella regione.</description></item><item><title>Unifil: Basta attacchi deliberati contro i soldati Onu, avviata indagine sui crimini di guerra</title><link>https://ogginews.com/guerre/2026-03-30-17-unifil-attacchi-onu/</link><pubDate>Mon, 30 Mar 2026 17:48:00 +0000</pubDate><guid>https://ogginews.com/guerre/2026-03-30-17-unifil-attacchi-onu/</guid><description>L&amp;#39;UNIFIL condanna gli attacchi deliberati contro i propri soldati definendoli possibili crimini di guerra e avvia un&amp;#39;indagine su incidenti mortali in Libano.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libano on OggINews</title>
+    <link>https://ogginews.com/tags/libano/</link>
+    <description>Recent content in Libano on OggINews</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Tue, 31 Mar 2026 04:01:00 +0000</lastBuildDate>
+    <atom:link href="https://ogginews.com/tags/libano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attacco nel Sud Libano: Quattro Soldati Israeliani Uccisi</title>
+      <link>https://ogginews.com/guerre/2026-03-31-04-attacco-sud-libano-soldati-israeliani/</link>
+      <pubDate>Tue, 31 Mar 2026 04:01:00 +0000</pubDate>
+      <guid>https://ogginews.com/guerre/2026-03-31-04-attacco-sud-libano-soldati-israeliani/</guid>
+      <description>Quattro soldati israeliani uccisi in un attacco nel sud del Libano, con tre feriti. L&amp;#39;incidente aumenta le tensioni tra Israele e Hezbollah nella regione.</description>
+    </item>
+    <item>
+      <title>Unifil: Basta attacchi deliberati contro i soldati Onu, avviata indagine sui crimini di guerra</title>
+      <link>https://ogginews.com/guerre/2026-03-30-17-unifil-attacchi-onu/</link>
+      <pubDate>Mon, 30 Mar 2026 17:48:00 +0000</pubDate>
+      <guid>https://ogginews.com/guerre/2026-03-30-17-unifil-attacchi-onu/</guid>
+      <description>L&amp;#39;UNIFIL condanna gli attacchi deliberati contro i propri soldati definendoli possibili crimini di guerra e avvia un&amp;#39;indagine su incidenti mortali in Libano.</description>
+    </item>
+  </channel>
+</rss>

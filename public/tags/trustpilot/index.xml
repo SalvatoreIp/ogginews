@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Trustpilot on OggINews</title><link>https://ogginews.com/tags/trustpilot/</link><description>Recent content in Trustpilot on OggINews</description><generator>Hugo</generator><language>it-IT</language><lastBuildDate>Mon, 23 Mar 2026 13:01:41 +0000</lastBuildDate><atom:link href="https://ogginews.com/tags/trustpilot/index.xml" rel="self" type="application/rss+xml"/><item><title>Antitrust, sanzione di 4 milioni di euro a Trustpilot per pratica commerciale scorretta</title><link>https://ogginews.com/economia/2026-03-23-13-antitrust-sanzione-di-4-milioni-di-euro-a-trustpilot-per-pratica-commerciale-scorretta/</link><pubDate>Mon, 23 Mar 2026 13:01:41 +0000</pubDate><guid>https://ogginews.com/economia/2026-03-23-13-antitrust-sanzione-di-4-milioni-di-euro-a-trustpilot-per-pratica-commerciale-scorretta/</guid><description>L&amp;#39;Autorità Garante della Concorrenza ha multato Trustpilot di 4 milioni di euro per mancati controlli sulle recensioni e uso di dark pattern. La piattaforma dovrà rivedere trasparenza e algoritmi.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trustpilot on OggINews</title>
+    <link>https://ogginews.com/tags/trustpilot/</link>
+    <description>Recent content in Trustpilot on OggINews</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Mon, 23 Mar 2026 13:01:41 +0000</lastBuildDate>
+    <atom:link href="https://ogginews.com/tags/trustpilot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antitrust, sanzione di 4 milioni di euro a Trustpilot per pratica commerciale scorretta</title>
+      <link>https://ogginews.com/economia/2026-03-23-13-antitrust-sanzione-di-4-milioni-di-euro-a-trustpilot-per-pratica-commerciale-scorretta/</link>
+      <pubDate>Mon, 23 Mar 2026 13:01:41 +0000</pubDate>
+      <guid>https://ogginews.com/economia/2026-03-23-13-antitrust-sanzione-di-4-milioni-di-euro-a-trustpilot-per-pratica-commerciale-scorretta/</guid>
+      <description>L&amp;#39;Autorità Garante della Concorrenza ha multato Trustpilot di 4 milioni di euro per mancati controlli sulle recensioni e uso di dark pattern. La piattaforma dovrà rivedere trasparenza e algoritmi.</description>
+    </item>
+  </channel>
+</rss>

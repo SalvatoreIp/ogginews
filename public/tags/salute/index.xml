@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Salute on OggINews</title><link>https://ogginews.com/tags/salute/</link><description>Recent content in Salute on OggINews</description><generator>Hugo</generator><language>it-IT</language><lastBuildDate>Mon, 30 Mar 2026 13:59:00 +0000</lastBuildDate><atom:link href="https://ogginews.com/tags/salute/index.xml" rel="self" type="application/rss+xml"/><item><title>Trapianti, dall'anno zero agli organi del futuro: migliaia di vite salvate</title><link>https://ogginews.com/attualita/2026-03-30-13-trapianti-organi-futuro/</link><pubDate>Mon, 30 Mar 2026 13:59:00 +0000</pubDate><guid>https://ogginews.com/attualita/2026-03-30-13-trapianti-organi-futuro/</guid><description>La tragedia di Domenico non frena le donazioni di organi, mentre in Italia sono 8000 le persone in lista per ricevere un cuore, un polmone, un fegato o i reni.</description></item><item><title>Sleeve gastrectomy e food noise: quando la mente ha più fame del corpo</title><link>https://ogginews.com/attualita/2026-03-23-10-sleeve-gastrectomy-e-food-noise-quando-la-mente-ha-pi%C3%B9-fame-del-corpo/</link><pubDate>Mon, 23 Mar 2026 10:42:26 +0000</pubDate><guid>https://ogginews.com/attualita/2026-03-23-10-sleeve-gastrectomy-e-food-noise-quando-la-mente-ha-pi%C3%B9-fame-del-corpo/</guid><description>La sleeve gastrectomy riduce lo stomaco dell&amp;#39;80%, ma il food noise mentale resta. La psicologa bariatrica Emanuela Paone spiega perché l&amp;#39;obesità è spesso un malessere psicosomatico.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Salute on OggINews</title>
+    <link>https://ogginews.com/tags/salute/</link>
+    <description>Recent content in Salute on OggINews</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Mon, 30 Mar 2026 13:59:00 +0000</lastBuildDate>
+    <atom:link href="https://ogginews.com/tags/salute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trapianti, dall&#39;anno zero agli organi del futuro: migliaia di vite salvate</title>
+      <link>https://ogginews.com/attualita/2026-03-30-13-trapianti-organi-futuro/</link>
+      <pubDate>Mon, 30 Mar 2026 13:59:00 +0000</pubDate>
+      <guid>https://ogginews.com/attualita/2026-03-30-13-trapianti-organi-futuro/</guid>
+      <description>La tragedia di Domenico non frena le donazioni di organi, mentre in Italia sono 8000 le persone in lista per ricevere un cuore, un polmone, un fegato o i reni.</description>
+    </item>
+    <item>
+      <title>Sleeve gastrectomy e food noise: quando la mente ha più fame del corpo</title>
+      <link>https://ogginews.com/attualita/2026-03-23-10-sleeve-gastrectomy-e-food-noise-quando-la-mente-ha-pi%C3%B9-fame-del-corpo/</link>
+      <pubDate>Mon, 23 Mar 2026 10:42:26 +0000</pubDate>
+      <guid>https://ogginews.com/attualita/2026-03-23-10-sleeve-gastrectomy-e-food-noise-quando-la-mente-ha-pi%C3%B9-fame-del-corpo/</guid>
+      <description>La sleeve gastrectomy riduce lo stomaco dell&amp;#39;80%, ma il food noise mentale resta. La psicologa bariatrica Emanuela Paone spiega perché l&amp;#39;obesità è spesso un malessere psicosomatico.</description>
+    </item>
+  </channel>
+</rss>
