@@ -77,7 +77,6 @@ MAI Browser Relay (siamo su VPS)
 - UNA sola categoria
 - MAI creare la cartella ultimora/ o qualsiasi altra cartella non elencata sopra
 - Nel frontmatter usare SEMPRE virgolette doppie, MAI apostrofi singoli
-- Dopo aver creato il file eseguire SEMPRE: cd /home/salvatore/notizie-italiane && hugo --minify && git add . && git commit -m "TITOLO" && git push
 - MAI creare post di test, prova, yaml o simili. Lo script è già testato e funzionante.
 
 ## IMMAGINI
@@ -87,3 +86,4 @@ Usa SEMPRE Pixabay con questo comando (KEYWORD in inglese, NOME-FILE = slug arti
 PIXABAY_KEY=$(grep PIXABAY_API_KEY /home/salvatore/notizie-italiane/.env | cut -d= -f2)
 URL=$(wget -qO- "https://pixabay.com/api/?key=$PIXABAY_KEY&q=KEYWORD&image_type=photo&orientation=horizontal&per_page=3" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['hits'][0]['largeImageURL'])")
 wget -O /home/salvatore/notizie-italiane/static/immagini/NOME-FILE.jpg "$URL"
+- Dopo aver creato il file eseguire SEMPRE: cd /home/salvatore/notizie-italiane && rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name ogginews --commit-dirty=true && git add . && git commit -m "TITOLO" && git push
