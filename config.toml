@@ -1,4 +1,4 @@
-baseURL = "https://ogginews.com/"  # o il tuo dominio vero
+baseURL = "https://ogginews.pages.dev/"
 languageCode = "it-it"
 title = "OggINews"
 
