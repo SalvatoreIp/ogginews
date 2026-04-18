@@ -3,7 +3,7 @@ title: "Dl sicurezza, approvato al Senato: stretta sul piccolo spaccio e deroghe
 date: 2026-04-18T18:56:00Z
 draft: false
 description: "Il Senato approva il decreto sicurezza con fiducia. Introdotte nuove norme contro il piccolo spaccio di droga e deroghe al divieto di possesso di coltelli. Meloni: \"Passo decisivo per la tutela dei cittadini\""
-categories: ["politica"]
+categories: ["attualita"]
 tags: ["decreto sicurezza", "Senato", "Meloni", "spaccio droga", "coltelli", "politica italiana"]
 cover:
   image: /immagini/dl-sicurezza-senato.jpg
