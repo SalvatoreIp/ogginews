@@ -3,7 +3,7 @@ title: "Stretto di Hormuz chiuso nuovamente: spari contro navi commerciali, esca
 date: 2026-04-19T10:21:00Z
 draft: false
 description: "L'Iran torna a blindare lo Stretto di Hormuz. Almeno tre navi commerciali colpite da spari. Cessate il fuoco scade il 21 aprile."
-categories: ["mondo"]
+categories: ["attualita"]
 tags: ["Hormuz", "Iran", "USA", "Golfo Persico", "petrolio", "guerra"]
 cover:
   image: /immagini/hormuz-chiuso-di-nuovo.jpg
