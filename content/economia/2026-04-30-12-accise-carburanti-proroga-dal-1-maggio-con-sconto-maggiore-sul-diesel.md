@@ -6,7 +6,7 @@ description: "Governo approva mini-proroga taglio accise: 15 giorni con sconto p
 categories: ["economia"]
 tags: ["accise", "carburanti", "governo", "diesel", "benzina"]
 cover:
-  image: "/immagini/taglio-accise-carburanti-aprile-2026.jpg"
+  image: "/immagini/accise-carburanti-proroga-dal-1-maggio-con-sconto-maggiore-sul-diesel.jpg"
   alt: "Stazione di servizio con pompa benzina"
 ---
 
