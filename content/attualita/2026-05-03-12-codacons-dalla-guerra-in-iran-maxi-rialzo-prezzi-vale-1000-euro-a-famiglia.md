@@ -42,4 +42,4 @@ cover:
 
 <p>La situazione rimane fragile e dipende dagli sviluppi geopolitici internazionali. Le famiglie italiane sono invitate a seguire con attenzione le indicazioni delle associazioni consumatori e a pianificare le spese in modo più attento, soprattutto per quanto riguarda trasporti e carburante.</p>
 
-<p class="fonte">*Fonte: <a href=https://www.ansa.it/sito/notizie/topnews/2026/05/03/codacons-dalla-guerra-in-iran-maxi-rialzo-prezzi-vale-1.000-euro_024078f3-2a72-4ab7-81ac-1aebfc60ee1d.html target=_blank>ANSA</a></p>
+<p class="fonte">*Fonte: <a href="https://www.ansa.it/sito/notizie/topnews/2026/05/03/codacons-dalla-guerra-in-iran-maxi-rialzo-prezzi-vale-1.000-euro_024078f3-2a72-4ab7-81ac-1aebfc60ee1d.html" target="_blank">ANSA</a></p>
