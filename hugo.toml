@@ -57,3 +57,6 @@ theme = "PaperMod"
 
 canonifyURLs = false
 relativeURLs = false
+
+[permalinks]
+  guerre = "/guerre/:slug/"
