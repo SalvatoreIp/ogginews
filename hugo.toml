@@ -60,3 +60,7 @@ relativeURLs = false
 
 [permalinks]
   guerre = "/guerre/:slug/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
