@@ -1,6 +1,6 @@
 ---
 title: "Sleeve gastrectomy e food noise: quando la mente ha più fame del corpo"
-date: 2026-03-23T10:42:26Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La sleeve gastrectomy riduce lo stomaco dell'80%, ma il food noise mentale resta. La psicologa bariatrica Emanuela Paone spiega perché l'obesità è spesso un malessere psicosomatico."
 categories: ["attualita"]

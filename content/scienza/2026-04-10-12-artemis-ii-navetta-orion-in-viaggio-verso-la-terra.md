@@ -1,6 +1,6 @@
 ---
 title: "Artemis II: navetta Orion in viaggio verso la Terra"
-date: 2026-04-10T12:06:59Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Artemis II: navetta Orion in viaggio verso la Luna, 4 astronauti a bordo, obiettivo ritorno umano sulla Luna."
 categories: ["scienza"]

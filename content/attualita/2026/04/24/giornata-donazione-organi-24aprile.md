@@ -1,6 +1,6 @@
 ---
 title: "Giornata Nazionale Donazione Organi 2026: 8.000 italiani in attesa, il sistema sanitario in campo"
-date: 2026-04-24T10:33:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Oggi 24 aprile 2026 è la Giornata Nazionale della Donazione di Organi in Italia. 8.000 pazienti in lista d'attesa, 17.000 trapianti eseguiti nel 2025. Come funziona e perché donare salva vite."
 categories: ["attualita"]

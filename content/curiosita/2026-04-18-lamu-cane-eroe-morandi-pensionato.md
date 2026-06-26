@@ -1,6 +1,6 @@
 ---
 title: "Lamù, il cane eroe del ponte Morandi, va in pensione: 11 anni di servizio"
-date: 2026-04-18T13:15:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Lamù, il pastore australiano del nucleo cinofili dei Vigili del Fuoco che aveva lavorato sul ponte Morandi, ha concluso il suo servizio il 12 aprile. Un anno 11 di servizio e migliaia di vite salvate."
 categories: ["curiosita"]

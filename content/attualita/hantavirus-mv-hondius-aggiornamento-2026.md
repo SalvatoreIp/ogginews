@@ -1,6 +1,6 @@
 ---
 title: "Hantavirus nave Mv Hondius: 8 casi totali, nuovi contagi in Svizzera e Olanda"
-date: 2026-05-10T10:43:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Aggiornamento hantavirus nave crociera Mv Hondius: 8 casi totali (5 confermati, 3 sospetti), 3 decessi. Nuovo caso in Svizzera, assistente di volo Olanda. Nave diretta a Tenerife."
 categories: ["attualita"]

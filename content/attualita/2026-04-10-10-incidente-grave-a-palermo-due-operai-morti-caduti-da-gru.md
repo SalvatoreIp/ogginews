@@ -1,6 +1,6 @@
 ---
 title: "Incidente grave a Palermo: due operai morti caduti da gru"
-date: 2026-04-10T10:22:14Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Incidente mortale Palermo: due operai morti caduti da gru durante lavori. Indagini aperte sulle responsabilità."
 categories: ["attualita"]

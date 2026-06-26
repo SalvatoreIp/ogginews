@@ -1,6 +1,6 @@
 ---
 title: "Donazione organi: la tragedia di Domenico non frena le speranze, in lista 8000 persone"
-date: 2026-04-12T20:05:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La tragedia di Domenico non frena le donazioni di organi. In Italia 8000 persone aspettano un cuore, polmone, fegato o reni. L'appello del Ministero della Salute per aumentare le dichiarazioni di volontà."
 categories: ["attualita"]

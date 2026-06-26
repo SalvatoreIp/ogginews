@@ -1,6 +1,6 @@
 ---
 title: "Formaggio in Villa 2026: torna la sagra italiana più gustosa a Cittadella"
-date: 2026-04-18T19:20:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Torna a Cittadella (PD) il Formaggio in Villa 2026, la sagra che celebra i prodotti caseari italiani. Tre giorni di degustazioni, prodotti tipici e cultura del formaggio."
 categories: ["curiosita"]

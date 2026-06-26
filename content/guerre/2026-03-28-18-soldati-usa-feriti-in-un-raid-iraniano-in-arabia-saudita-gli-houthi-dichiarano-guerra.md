@@ -1,6 +1,6 @@
 ---
 title: "Soldati Usa feriti in un raid iraniano in Arabia Saudita, gli Houthi dichiarano guerra"
-date: 2026-03-28T18:57:02Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Un attacco iraniano alla base USA in Arabia Saudita ha ferito almeno 12 soldati americani. Gli Houthi dichiarano guerra a Israele e USA. Il prezzo del petrolio sale e la tensione nel Golfo raggiunge livelli critici."
 categories: ["guerre"]

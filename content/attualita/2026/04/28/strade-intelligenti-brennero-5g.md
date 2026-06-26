@@ -1,6 +1,6 @@
 ---
 title: "Strade intelligenti: progetto 5GBEAM sul Brennero, autostrada A22 diventa Smart Road"
-date: 2026-04-28T09:42:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Sul Brennero arriva il 5G: nasce l'autostrada intelligente A22 con il progetto 5GBEAM da 8,7 milioni di euro per veicoli connessi e guida autonoma."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Trapianti organi Italia: 40 anni da quel cuore salvato, 8000 persone in lista d'attesa"
-date: 2026-04-18T09:55:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "40 anni dopo il primo trapianto di cuore in Italia, i trapianti continuano a salvare migliaia di vite. Ecco i numeri, le storie di chi ha ricevuto un nuovo organo e l'appello per aumentare le donazioni."
 categories: ["attualita"]

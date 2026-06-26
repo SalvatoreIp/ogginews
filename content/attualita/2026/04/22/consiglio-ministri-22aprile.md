@@ -1,6 +1,6 @@
 ---
 title: "Consiglio dei Ministri oggi: in programma a Palazzo Chigi, ordigni e agende sul tavolo"
-date: 2026-04-22T10:13:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Oggi 22 aprile 2026 si riunisce il Consiglio dei Ministri a Palazzo Chigi dalle ore 11:30. Tra i punti all'ordine del giorno: decreti sicurezza, incentivi e riforme in attesa di conversione."
 categories: ["attualita"]

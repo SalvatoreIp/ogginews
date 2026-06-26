@@ -1,6 +1,6 @@
 ---
 title: "Giornata Nazionale per la Donazione di Organi e Tessuti: 19 aprile 2026"
-date: 2026-04-19T06:28:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Oggi 19 aprile è la Giornata Nazionale per la Donazione di Organi e Tessuti. In Italia 8000 persone attendono un trapianto. Scopriamo dati e iniziative."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Tragedia a Vasto: padre uccide figlio con l'ascia dopo litigio su scelta universitaria"
-date: 2026-04-21T10:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "A Vasto (Chieti), Andrea Sciorilli 21 anni è stato ucciso con un'ascia dal padre Antonio, dirigente ASL. La madre e la sorella lo avevano già denunciato due anni fa per maltrattamenti."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Codacons, dalla guerra in Iran maxi-rialzo prezzi: vale 1.000 euro a famiglia"
-date: 2026-05-03T12:27:16Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Guerra Iran: Codacons stima 1.000€ di rincari familiari. Benzina +38%, voli +18%, ortaggi +15%. Impatto diretto sulle tasche degli italiani."
 categories: ["attualita"]

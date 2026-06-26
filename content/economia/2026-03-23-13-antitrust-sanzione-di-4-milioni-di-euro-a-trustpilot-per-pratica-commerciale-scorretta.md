@@ -1,6 +1,6 @@
 ---
 title: "Antitrust, sanzione di 4 milioni di euro a Trustpilot per pratica commerciale scorretta"
-date: 2026-03-23T13:01:41Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'Autorità Garante della Concorrenza ha multato Trustpilot di 4 milioni di euro per mancati controlli sulle recensioni e uso di dark pattern. La piattaforma dovrà rivedere trasparenza e algoritmi."
 categories: ["economia"]

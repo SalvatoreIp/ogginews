@@ -1,6 +1,6 @@
 ---
 title: "Decreto ponte è legge: 160 sì alla Camera, fondi e commissari per lo Stretto"
-date: 2026-05-08T09:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il decreto ponte sullo Stretto di Messina è diventato legge. Camera approva con 160 sì: 14,4 miliardi totali, commissari straordinari, nomina AD Rfi per le opere ferroviarie."
 categories: ["attualita"]

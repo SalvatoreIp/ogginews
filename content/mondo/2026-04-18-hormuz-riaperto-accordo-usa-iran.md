@@ -1,6 +1,6 @@
 ---
 title: "Stretto di Hormuz riaperto: accordo USA-Iran quasi completato, tregua in Libano"
-date: 2026-04-18T09:30:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Teheran annuncia la riapertura totale dello Stretto di Hormuz alle navi commerciali dopo la tregua in Libano. Trump afferma che l'accordo con l'Iran è 'quasi completato' e potrebbe essere raggiunto in 'un giorno o due'."
 categories: ["guerre"]

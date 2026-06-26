@@ -1,6 +1,6 @@
 ---
 title: "Oltre i cinque sensi tradizionali: la scienza ne conta fino a 33 e scopre il 'superpotere' di percepire le onde di pressione"
-date: 2026-03-22T19:58:43Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La neuroscienza moderna sfida i cinque sensi tradizionali: nuovi studi rivelano fino a 33 modalità percettive, tra cui la capacità di percepire oggetti nascosti attraverso vibrazioni."
 categories: ["scienza"]

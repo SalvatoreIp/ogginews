@@ -1,6 +1,6 @@
 ---
 title: "Inflazione USA accelera a marzo: 3,3%, i mercati trattengono il fiato"
-date: 2026-04-10T14:08:58Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "USA inflazione marzo 3,3%, accelerazione dati BLS: Fed sotto pressione, mercati volatili."
 categories: ["economia"]

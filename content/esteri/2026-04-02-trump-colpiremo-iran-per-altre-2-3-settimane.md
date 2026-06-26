@@ -1,6 +1,6 @@
 ---
 title: "Trump: 'Colpiremo Iran per altre 2-3 settimane, torneranno all'età della pietra'"
-date: 2026-04-02T06:45:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Nella address alla nazione, il presidente USA ha promesso escalation dei bombardamenti contro le infrastrutture energetiche iraniane e ha annunciato la distruzione completa dell'aviazione e della marina del regime"
 categories: ["esteri"]

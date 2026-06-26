@@ -1,6 +1,6 @@
 ---
 title: "Artemis II completa: capsula Orion ammarata con successo, missione storica conclusa"
-date: 2026-04-11T06:51:04Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Artemis II completa: capsula Orion ammarata, 4 astronauti tornati sani e salvi dopo viaggio storico intorno alla Luna."
 categories: ["scienza"]

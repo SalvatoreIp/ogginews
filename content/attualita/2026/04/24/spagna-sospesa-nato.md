@@ -1,6 +1,6 @@
 ---
 title: "Spagna sospesa dalla NATO: il Pentagono valuta ritorsione per mancato supporto guerra Iran"
-date: 2026-04-24T15:41:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Un'email del Pentagono ipotizza la sospensione della Spagna dalla NATO per il mancato sostegno alle operazioni contro l'Iran. Sanchez: 'Valgono solo atti formali'. Tensione USA-NATO."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Stretto di Hormuz: l'Iran minaccia chiusura nuovamente, blocco USA resta in vigore"
-date: 2026-04-18T09:35:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Teheran ha annunciato che chiuderà nuovamente lo Stretto di Hormuz se gli Stati Uniti continueranno il blocco dei porti iraniani. Il presidente del Parlamento iraniano Ghalibaf: 'Non permetteremo al nemico di controllare le nostre acque'. Il blocco USA resta in vigore."
 categories: ["guerre"]

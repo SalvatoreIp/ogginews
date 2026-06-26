@@ -1,6 +1,6 @@
 ---
 title: "USA Colpiscono Deposito Munizioni in Iran, Trump Posta il Video"
-date: 2026-03-31T07:05:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Gli Stati Uniti conducono un raid militare contro un deposito munizioni in Iran. Trump condivide immagini dell'operazione sui social media."
 categories: ["guerre"]

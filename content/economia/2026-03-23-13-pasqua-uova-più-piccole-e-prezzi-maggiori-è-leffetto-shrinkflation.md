@@ -1,6 +1,6 @@
 ---
 title: "Pasqua, uova più piccole e prezzi maggiori: è l'effetto shrinkflation"
-date: 2026-03-23T13:26:49Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Le uova di Pasqua si rimpiccioliscono ma il prezzo sale: la shrinkflation colpisce il settore dolciario. Indagine Udicon-Piepoli su calchi del 7% e rincari del 4,2%."
 categories: ["economia"]

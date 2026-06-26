@@ -1,6 +1,6 @@
 ---
 title: "Gasolio in Italia: il prezzo sale a 2,16 euro, nuovi rialzi in arrivo"
-date: 2026-04-14T04:30:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il gasolio in Italia raggiunge i 2,16 euro al litro. Il Brent supera i 102 dollari dopo lo Stretto di Hormuz chiuso. In arrivo nuovi rialzi per benzina e gasolio secondo Unem e Codacons."
 categories: ["economia"]

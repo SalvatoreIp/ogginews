@@ -1,6 +1,6 @@
 ---
 title: "Addio Sora, OpenAI spegne il generatore di video che aveva stupito il mondo nel 2024"
-date: 2026-03-26T13:17:45Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "OpenAI chiude Sora, il generatore video AI lanciato nel 2024. Motivo: costi insostenibili e fine partnership con Disney."
 categories: ["scienza"]

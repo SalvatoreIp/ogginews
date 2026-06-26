@@ -1,6 +1,6 @@
 ---
 title: "Gaza: oltre 38.000 donne uccise, distruzione senza precedenti"
-date: 2026-04-19T13:14:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Dall'ONU il bilancio drammatico: oltre 38.000 donne morte in due anni di guerra a Gaza. Nuovi bombardamenti, sfollati e crisi umanitaria senza precedenti."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Effetto guerra, crolla a marzo la fiducia dei consumatori"
-date: 2026-03-26T11:01:10Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Fiducia consumatori italiana crolla a 92,6 punti a marzo, per colpa delle tensioni geopolitiche e del caro energia."
 categories: ["economia"]

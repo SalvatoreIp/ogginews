@@ -1,6 +1,6 @@
 ---
 title: "Clochard aggrediti da gruppo organizzato: due giovani identificati"
-date: 2026-03-27T07:40:07Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Aggressione organizzata a tre clochard a Milano. Due giovani identificati, indagini per associazione per delinquere. Il sindaco Sala: 'Milano non si rassegna alle barbarie'."
 categories: ["attualita"]

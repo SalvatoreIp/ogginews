@@ -1,6 +1,6 @@
 ---
 title: "Borsa: Milano chiude in calo, Ftse Mib -0,7%"
-date: 2026-03-27T11:24:44Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Borsa Milano chiude in ribasso dello 0,7% con Ftse Mib a 43.450 punti. Volatilità per dati USA deboli e tensioni in Medio Oriente. Settori bancario e energetico penalizzati."
 categories: ["economia"]

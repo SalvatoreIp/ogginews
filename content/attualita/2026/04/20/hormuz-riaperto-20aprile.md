@@ -1,6 +1,6 @@
 ---
 title: "Hormuz riaperto ma la tensione resta: MSC Euribia passa, USA bloccano i porti iraniani"
-date: 2026-04-20T04:05:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Lo Stretto di Hormuz si riapre: la nave MSC Euribia transita con successo. Ma Trump mantiene il blocco sui porti iraniani, gli accordi sono lontani."
 categories: ["attualita"]

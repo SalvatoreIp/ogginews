@@ -1,6 +1,6 @@
 ---
 title: "Banche italiane, IA ovunque: 75% utilizza intelligenza artificiale"
-date: 2026-05-03T12:30:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Le banche italiane entrano nella rivoluzione IA: 75% utilizza componenti AI per erogazione credito. Investimenti quadruplicati."
 categories: ["economia"]

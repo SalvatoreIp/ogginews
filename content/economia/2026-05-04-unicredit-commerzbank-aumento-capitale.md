@@ -1,6 +1,6 @@
 ---
 title: "Borsa Italiana: UniCredit approva aumento capitale da 6,7 miliardi per Commerzbank"
-date: 2026-05-04T18:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "UniCredit approva aumento capitale di 6,7 miliardi. Andrea Orcel: consolidamento bancario inevitabile. Offerta su Commerzbank dal 5 maggio."
 categories: ["economia"]

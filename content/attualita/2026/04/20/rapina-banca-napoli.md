@@ -1,6 +1,6 @@
 ---
 title: "Rapina banche a Napoli, 20 minuti di terrore: dieci uomini talpa entrano dal sottosuolo"
-date: 2026-04-20T06:53:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Nella filiale Crédit Agricole di Napoli, dieci rapinatori hanno usato un tunnel sotterraneo di due chilometri per irrompere nella banca. 20 minuti di ostaggi e minacce di morte."
 categories: ["attualita"]

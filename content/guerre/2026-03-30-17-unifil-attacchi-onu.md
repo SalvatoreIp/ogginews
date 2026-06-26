@@ -1,6 +1,6 @@
 ---
 title: "Unifil: Basta attacchi deliberati contro i soldati Onu, avviata indagine sui crimini di guerra"
-date: 2026-03-30T17:48:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'UNIFIL condanna gli attacchi deliberati contro i propri soldati definendoli possibili crimini di guerra e avvia un'indagine su incidenti mortali in Libano."
 categories: ["guerre"]

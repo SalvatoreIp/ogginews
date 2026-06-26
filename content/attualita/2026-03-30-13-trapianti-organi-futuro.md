@@ -1,6 +1,6 @@
 --- 
 title: "Trapianti, dall'anno zero agli organi del futuro: migliaia di vite salvate"
-date: 2026-03-30T13:59:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La tragedia di Domenico non frena le donazioni di organi, mentre in Italia sono 8000 le persone in lista per ricevere un cuore, un polmone, un fegato o i reni."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Iran sommerso dal petrolio: serbatoi pieni ed export bloccato"
-date: 2026-04-29T12:49:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'Iran è sommerso da petrolio invenduto: Teheran riattiva serbatoi abbandonati e container improvvisati. Blocchi navali USA bloccano l'export, 2 milioni di barili/giorno fermi."
 categories: ["economia"]

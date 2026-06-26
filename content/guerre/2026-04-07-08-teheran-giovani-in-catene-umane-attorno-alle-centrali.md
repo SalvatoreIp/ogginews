@@ -1,6 +1,6 @@
 ---
 title: "Teheran, giovani in catene umane attorno alle centrali"
-date: 2026-04-07T08:03:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Appello TV iraniana: giovani in catene attorno a centrali elettriche, IDF avverte 'non prendete il treno'"
 categories: ["guerre"]

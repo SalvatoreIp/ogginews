@@ -1,6 +1,6 @@
 ---
 title: "Premier Meloni incontra medagliati Olimpici e Paralimpici Milano-Cortina 2026"
-date: 2026-04-12T15:30:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto nel Cortile d'Onore di Palazzo Chigi i medagliati Olimpici e Paralimpici dei Giochi di Milano-Cortina 2026."
 categories: ["attualita"]

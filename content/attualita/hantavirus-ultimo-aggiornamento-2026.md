@@ -1,6 +1,6 @@
 ---
 title: "Hantavirus nave Mv Hondius: 4 italiani in quarantena, nave sbarcata a Tenerife"
-date: 2026-05-11T14:51:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Ultimo aggiornamento hantavirus nave crociera Mv Hondius: 5 casi confermati, 3 sospetti, 3 morti. 4 italiani in quarantena, nave sbarcata a Tenerife. Contatti sotto sorveglianza."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Referendum sulla giustizia 2026: cosa abbiamo capito dai risultati e dalla mappa del voto"
-date: 2026-03-25T05:14:24Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il No vince con il 53,7% al referendum sulla giustizia. Affluenza al 58,9%. Analisi dei risultati e della mappa del voto: il ruolo delle grandi città, la frattura generazionale e le conseguenze politiche."
 categories: ["attualita"]

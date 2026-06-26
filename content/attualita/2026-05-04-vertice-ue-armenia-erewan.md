@@ -1,6 +1,6 @@
 ---
 title: "Vertice UE-Armenia a Erevan: Meloni e von der Leyen siglano accordi storici"
-date: 2026-05-04T17:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Vertice UE-Armenia a Erevan: presidente Meloni e presidente von der Leyen incontrano 48 capi di stato per accordi commerciali e cooperazione energetica."
 categories: ["attualita"]

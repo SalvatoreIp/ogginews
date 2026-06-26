@@ -1,6 +1,6 @@
 ---
 title: "Hantavirus in crociera: 5 casi confermati, passeggeri e equipaggio dispersi"
-date: 2026-05-07T19:39:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Emergenza hantavirus sulla nave da crociera Hondius: 5 casi confermati, 3 morti, possibile trasmissione uomo-uomo. Pazienti e equipaggio non si trovano più. Cosa si sa."
 categories: ["attualita"]

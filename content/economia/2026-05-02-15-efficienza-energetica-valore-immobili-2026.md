@@ -1,6 +1,6 @@
 ---
 title: "Efficienza energetica: il valore degli immobili aumenta fino al 45%"
-date: 2026-05-02T15:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Studio ENEA-MCE Lab: la riqualificazione energetica aumenta il valore degli immobili fino al 45%. Bonus casa 2026, costi reali e ROI garantito."
 categories: ["economia"]

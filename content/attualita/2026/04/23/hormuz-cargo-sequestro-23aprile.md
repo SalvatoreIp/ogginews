@@ -1,6 +1,6 @@
 ---
 title: "Stretto di Hormuz: i Pasdaran sequestrano due cargo MSC, Trump pronto a negoziare"
-date: 2026-04-23T06:40:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "I Guardiani della Rivoluzione iraniana hanno sequestrato due navi cargo MSC nello Stretto di Hormuz. Trump annuncia possibili colloqui già venerdì. Tensione massima nel Golfo Persico."
 categories: ["attualita"]

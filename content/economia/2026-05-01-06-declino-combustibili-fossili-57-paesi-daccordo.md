@@ -1,6 +1,6 @@
 ---
 title: "Declino combustibili fossili: 57 Paesi d'accordo per la transizione energetica"
-date: 2026-05-01T06:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La conferenza di Santa Marta si conclude con l'accordo di 57 Paesi per abbandonare i combustibili fossili. Francia presenta roadmap ambiziosa 2035."
 categories: ["economia"]

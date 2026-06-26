@@ -1,6 +1,6 @@
 ---
 title: "Attacco nel Sud Libano: Quattro Soldati Israeliani Uccisi"
-date: 2026-03-31T04:01:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Quattro soldati israeliani uccisi in un attacco nel sud del Libano, con tre feriti. L'incidente aumenta le tensioni tra Israele e Hezbollah nella regione."
 categories: ["guerre"]

@@ -1,6 +1,6 @@
 ---
 title: "Addio a Gino Paoli, maestro della canzone d'autore italiana"
-date: 2026-03-24T15:15:04Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il cantautore genovese si è spento a 91 anni. Autore di successi come 'Il cielo in una stanza' e 'Sapore di sale', ha segnato la storia della musica italiana con oltre sei decenni di carriera."
 categories: ["attualita"]

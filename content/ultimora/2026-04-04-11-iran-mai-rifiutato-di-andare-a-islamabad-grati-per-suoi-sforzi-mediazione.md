@@ -1,6 +1,6 @@
 ---
 title: "Iran, mai rifiutato di andare a Islamabad, grati per suoi sforzi mediazione"
-date: 2026-04-04T11:37:01Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'Iran smentisce il rifiuto dei colloqui a Islamabad: pronti al dialogo per pace duratura, non a tregue temporanee senza garanzie"
 categories: ["ultimora"]

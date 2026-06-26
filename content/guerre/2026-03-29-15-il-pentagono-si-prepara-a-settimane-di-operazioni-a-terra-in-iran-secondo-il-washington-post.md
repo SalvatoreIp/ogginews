@@ -1,6 +1,6 @@
 ---
 title: "Il Pentagono si prepara a settimane di operazioni a terra in Iran, secondo il Washington Post"
-date: 2026-03-29T15:35:21Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il Pentagono sta preparando piani per operazioni di terra in Iran per diverse settimane, secondo il Washington Post. Le operazioni non sarebbero un'invasione su larga scala ma incursioni mirate nell'isola di Kharg e nello Stretto di Hormuz."
 categories: ["guerre"]

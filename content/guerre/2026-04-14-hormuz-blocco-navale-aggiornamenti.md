@@ -1,6 +1,6 @@
 ---
 title: "Stretto di Hormuz: la nave cinese Rich Starry attraversa il blocco USA, 6 mercantili respinti"
-date: 2026-04-14T06:25:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Aggiornamenti sullo Stretto di Hormuz: la petroliera cinese Rich Starry ha attraversato il blocco navale USA. Sei navi mercantili sono state costrette a tornare ai porti iraniani. La Cina sfida le sanzioni."
 categories: ["guerre"]

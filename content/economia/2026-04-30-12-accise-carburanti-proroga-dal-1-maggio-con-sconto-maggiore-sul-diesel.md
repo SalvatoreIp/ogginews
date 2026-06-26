@@ -1,6 +1,6 @@
 ---
 title: "Accise carburanti: proroga dal 1° maggio con sconto maggiore sul diesel"
-date: 2026-04-30T12:00:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Governo approva mini-proroga taglio accise: 15 giorni con sconto più alto sul gasolio. Il decreto in consiglio dei ministri domani."
 categories: ["economia"]

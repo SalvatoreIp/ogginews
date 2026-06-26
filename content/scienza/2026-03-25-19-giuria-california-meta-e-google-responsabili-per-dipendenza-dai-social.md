@@ -1,6 +1,6 @@
 ---
 title: "Giuria California: Meta e Google responsabili per dipendenza dai social"
-date: 2026-03-25T19:06:09Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Giuria California: Meta e Google responsabili per dipendenza dai social di una ventenne. Verdetto storico, possibile effetto domino per altre cause."
 categories: ["scienza"]

@@ -1,6 +1,6 @@
 ---
 title: "25 aprile 2026: cortei in tutta Italia, tensioni a Roma per bandiere Ucraina"
-date: 2026-04-25T13:35:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Oggi 25 aprile 2026 Festa della Liberazione: migliaia di manifestanti nelle piazze italiane. Tensioni a Roma con bandiere Ucraina, contestata Brigata ebraica a Milano. Intervento forze dell'ordine."
 categories: ["attualita"]

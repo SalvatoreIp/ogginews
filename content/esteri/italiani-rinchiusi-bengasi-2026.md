@@ -11,8 +11,6 @@ image: /immagini/italiani-bengasi-libia-2026.jpg
 
 ## Italiani rinchiusi a Bengasi: due attivisti bloccati dal 24 maggio
 
-{{<amazon-box keyword="viaggi Libia 2026" tag="audiobook-21" id="A0005">}}
-
 **BENGASI** – Una crisi umanitaria che continua a tenervi banco nell'attenzione dell'opinione pubblica italiana. Due cittadini italiani, insieme ad altri 9 attivisti internazionali, risultano rinchiusi a Bengasi dal 24 maggio, data in cui sarebbero stati arrestati dalle autorità locali senza un motivo ufficialmente chiarito.
 
 La situazione è diventata sempre più tesa nelle ultime ore, con le famiglie dei detenuti che hanno lanciato un appello urgente per il loro rilascio immediato. Il Ministero degli Affari Esteri italiano ha confermato di essere al corrente della situazione e di stare lavorando per garantire la liberazione dei connazionali.
@@ -108,8 +106,6 @@ La situazione rimane delicata e imprevedibile. Le prossime settimane saranno dec
 La situazione dei due italiani rinchiusi a Bengasi rappresenta un ulteriore esempio delle difficoltà operative in contesti instabili come quello libico. Il lavoro del consolato italiano e della diplomazia continua a essere fondamentale per garantire la sicurezza dei connazionali e risolvere la crisi nel modo più rapido possibile.
 
 Le famiglie attendono con angoscia notizie positive, sperando in un rilascio immediato e sicuro. La comunità italiana e internazionale continua a tenere alta l'attenzione sulla situazione, esercitando pressioni affinché venga garantito il rispetto dei diritti umani e delle convenzioni internazionali.
-
-{{<amazon-box keyword="sicurezza viaggi internazionali" tag="audiobook-21" id="A0006">}}
 
 ---
 

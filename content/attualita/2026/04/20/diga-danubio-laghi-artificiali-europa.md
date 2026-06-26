@@ -1,6 +1,6 @@
 ---
 title: "Grandi Dighe sul Danubio: il più grande sistema di laghi artificiali d'Europa"
-date: 2026-04-20T10:16:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Sul Danubio nasce il più grande sistema di laghi artificiali d'Europa: 14 dighe lungo il fiume creano oltre 800 km² di bacini idroelettrici tra Romania e Serbia."
 categories: ["attualita"]

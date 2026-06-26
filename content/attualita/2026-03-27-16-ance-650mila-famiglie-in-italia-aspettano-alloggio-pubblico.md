@@ -1,6 +1,6 @@
 ---
 title: "Ance: 650mila famiglie in Italia aspettano alloggio pubblico"
-date: 2026-03-27T16:16:25Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Ance: 650mila famiglie in Italia aspettano alloggio pubblico. Tempi d'attesa fino a 10 anni. Governo stanzia 3,5 miliardi, ma serve piano da 50."
 categories: ["attualita"]

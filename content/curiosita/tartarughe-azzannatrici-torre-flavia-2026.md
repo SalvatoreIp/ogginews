@@ -1,6 +1,6 @@
 ---
 title: "Allarme tartarughe azzannatrici: invasione nel Lazio e prima generazione nativa"
-date: 2026-05-06T20:08:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Emergenza tartarughe azzannatrici a Torre Flavia: trovati nuovi esemplari, già seconda generazione. Pericolo per biodiversità e sicurezza cittadini. Cosa fare."
 categories: ["curiosita"]

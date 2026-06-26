@@ -1,6 +1,6 @@
 ---
 title: "Piacenza, donna uccisa in casa: arrestato il marito dopo la fuga"
-date: 2026-05-08T19:40:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Donna di 56 anni trovata accoltellata in appartamento a Piacenza. Il marito 60enne, cittadino macedone, ha dato l'allarme confessando il fatto, poi è fuggito. Ora è arrestato."
 categories: ["attualita"]

@@ -1,6 +1,6 @@
 ---
 title: "Elettricità 2026: come risparmiare fino al 35% in bolletta con elettrodomestici efficienti"
-date: 2026-04-26T13:18:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Il bonus elettrodomestici 2026 permette di risparmiare sul nuovo e abbattere i costi della bolletta fino al 35%. Scopri gli incentivi e i trucchi pratici."
 categories: ["economia"]

@@ -1,6 +1,6 @@
 ---
 title: "Stretto di Hormuz: scatta il blocco navale di Trump, petrolio oltre 104 dollari"
-date: 2026-04-13T14:55:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Lo Stretto di Hormuz è nuovamente chiuso: Trump ha deciso il blocco navale dopo il fallimento dei negoziati con l'Iran. I Pasdaran minacciano 'vortice mortale', il prezzo del petrolio supera i 104 dollari al barile."
 categories: ["guerre"]

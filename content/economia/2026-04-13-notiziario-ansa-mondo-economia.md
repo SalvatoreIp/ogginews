@@ -1,6 +1,6 @@
 ---
 title: "Notiziario ANSA: aggiornamenti da economia e politica internazionale"
-date: 2026-04-13T07:20:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Aggiornamenti ANSAMED su economia, politica e mercati internazionali. Analisi degli sviluppi recenti e impatto sulle economie europee nel 2026."
 categories: ["economia"]

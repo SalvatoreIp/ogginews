@@ -1,6 +1,6 @@
 ---
 title: "Israele vieta l'ingresso al cardinale Pizzaballa nel Santo Sepolcro, Italia protesta e Tajani convoca l'ambasciatore"
-date: 2026-03-30T07:38:17Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "La polizia israeliana ha impedito al cardinale Pizzaballa di entrare nel Santo Sepolcro a Gerusalemme per la Domenica delle Palme. Italia protesta: Meloni telefona al cardinale, Tajani convoca l'ambasciatore israeliano."
 categories: ["attualita"]

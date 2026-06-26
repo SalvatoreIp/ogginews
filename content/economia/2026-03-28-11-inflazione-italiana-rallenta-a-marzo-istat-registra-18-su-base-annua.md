@@ -1,6 +1,6 @@
 ---
 title: "Inflazione italiana rallenta a marzo: Istat registra +1,8% su base annua"
-date: 2026-03-28T11:08:54Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "Inflazione italiana rallenta a marzo: +1,8% su base annua (Istat). Calano energetici e alimentari, ritorna stabilità prezzi dopo due anni."
 categories: ["economia"]

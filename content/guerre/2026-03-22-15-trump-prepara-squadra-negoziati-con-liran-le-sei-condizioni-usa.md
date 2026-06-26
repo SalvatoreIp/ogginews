@@ -1,6 +1,6 @@
 ---
 title: "Trump prepara squadra negoziati con l'Iran: le sei condizioni USA"
-date: 2026-03-22T15:05:09Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'amministrazione Trump sta preparando una squadra di negoziatori per aprire un dialogo con l'Iran dopo settimane di escalation militare. Le sei condizioni USA e il ruolo di Egitto, Qatar e Regno Unito come intermediari."
 categories: ["guerre"]

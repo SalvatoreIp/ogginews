@@ -1,6 +1,6 @@
 ---
 title: "Accordo USA-Iran: riapertura Stretto di Hormuz proposta con negoziati nucleari dopo"
-date: 2026-04-27T07:40:00Z
+date: 2026-06-07T20:54:00+02:00
 draft: false
 description: "L'Iran presenta una nuova proposta agli USA per riaprire lo Stretto di Hormuz: prima revoca del blocco e riapertura, poi negoziati sul nucleare. Mediazione pakistana in corso."
 categories: ["attualita"]
