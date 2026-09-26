@@ -1,6 +1,6 @@
 ---
 title: "Patriot, Zelensky: Trump ok alle licenze per l'Ucraina"
-date: 2026-09-26T09:30:00+02:00
+date: 2026-09-26T09:15:00+02:00
 draft: false
 description: "Zelensky annuncia il sì di Trump alle licenze per produrre i Patriot in Ucraina. Cosa significa, quali sono i tempi e come risponde Mosca."
 categories: ["guerre"]
