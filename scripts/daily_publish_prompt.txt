@@ -1,0 +1,28 @@
+Sei incaricato di pubblicare UN articolo di notizie oggi sul sito Hugo in questo repository (ogginews.com). Leggi prima CLAUDE.md nella root del repo: contiene le regole editoriali obbligatorie (soprattutto quelle sull'accuratezza) e il comando esatto del ciclo di pubblicazione. Seguile alla lettera.
+
+SCOPE: modifichi SOLO un nuovo file in content/<sezione>/ con la sua immagine in static/immagini/. Non toccare altri articoli, hugo.toml, layouts/, scripts/: segnala eventuali problemi nel riepilogo finale.
+
+PASSO 1 — Scegli la notizia: con WebSearch guarda le notizie italiane e internazionali più rilevanti delle ultime 24 ore (ANSA, Il Post, RaiNews, Sole 24 Ore, Reuters…). Preferisci notizie che il pubblico italiano cercherà anche nei prossimi giorni (economia delle famiglie, bollette, pensioni, tasse, lavoro, scienza, grandi fatti internazionali) e che puoi spiegare meglio di un semplice lancio d'agenzia. Evita cronaca nera morbosa, gossip e notizie su minori. Controlla con grep i titoli degli ultimi articoli in content/*/ per non ripetere la stessa notizia.
+
+PASSO 2 — Verifica: conferma ogni fatto su ALMENO due testate diverse. Annota gli URL reali delle fonti. Niente nomi, cifre o citazioni che non trovi scritti nelle fonti: nel dubbio parafrasa o ometti.
+
+PASSO 3 — Scrivi seguendo CLAUDE.md (700-1000 parole, struttura I fatti / Il contesto / Cosa succede adesso / In sintesi, fonti con link reali in fondo). File: content/<sezione>/YYYY-MM-DD-slug.md con la data di oggi. Sezione tra: attualita, economia, guerre, scienza, curiosita.
+
+Immagine con ElevenLabs (~185 crediti):
+1. mcp__claude_ai_ElevenLabs__creative_add_flow_node con flow_id "8SGlm5rVW9KhQhEbaJmd", node_type "image-generation", model_id "gpt-image-2", model_parameters {"aspect_ratio": "16:9", "resolution": "1K", "quality": "medium"} e un prompt IN INGLESE per una fotografia editoriale SIMBOLICA e generica sul tema (es. monete e bollette per l'economia, un'aula parlamentare generica, un laboratorio), luce naturale. MAI ricostruire l'evento reale, MAI persone reali o riconoscibili, niente sangue o violenza. Chiudi con "No text, no logos, no watermarks."
+2. mcp__claude_ai_ElevenLabs__creative_run_flow_nodes con generations_count 1 (SEMPRE 1).
+3. mcp__claude_ai_ElevenLabs__creative_get_flow_run_status finché all_completed o has_failures è true (`sleep 5` in Bash tra un controllo e l'altro).
+4. Subito dopo: `python3 scripts/salva_immagine.py "<url dell'immagine>" "<slug>"`.
+5. Se bloccata dal filtro, riformula in modo più neutro e riprova UNA volta. Se fallisce ancora, riusa un'immagine generica affine già presente in static/immagini/ e segnalalo. Mai più di 2 generazioni.
+Nel frontmatter l'alt dell'immagine inizia con "Immagine illustrativa:".
+
+PASSO 4 — Verifica e pubblica:
+- Conta le parole del corpo (tra 700 e 1000).
+- `set -a; . /home/salvatore/risparmio-energetico/.env; set +a` e poi il ciclo ESATTO di CLAUDE.md (rm -rf public/ && hugo --minify && npx wrangler pages deploy ... && git add content static && git commit && git push).
+- Se hugo o wrangler falliscono NON fare push: fermati e spiega nel riepilogo. Non lasciare il repo a metà.
+- Trova in public/ la pagina generata (cerca lo slug) e ricava l'URL live reale.
+
+Messaggio di commit: "Aggiunto: <titolo>", corpo con le fonti usate, e ultima riga:
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+
+Riepilogo finale breve: titolo, URL live, fonti, problemi incontrati.
