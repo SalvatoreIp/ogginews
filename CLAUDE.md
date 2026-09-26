@@ -21,7 +21,7 @@ cd /home/salvatore/notizie-italiane && rm -rf public/ && hugo --minify \
 ## Struttura contenuti
 
 - Sezioni in uso: `attualita`, `economia`, `guerre`, `scienza`, `curiosita`. Non usare né creare `ultimora`, `esteri`, `mondo`, `guida` o altre cartelle.
-- File: `content/<sezione>/YYYY-MM-DD-slug.md`. Solo `guerre` ha permalink `/guerre/:slug/`; nelle altre sezioni l'URL contiene il nome file completo (es. `/economia/2026-05-04-unicredit-commerzbank-aumento-capitale/`). Verifica sempre il percorso reale in `public/`.
+- File: `content/<sezione>/YYYY-MM-DD-slug.md`. In `guerre` il permalink è `/guerre/:slug/` e, senza campo `slug`, Hugo lo ricava dal TITOLO; nelle altre sezioni l'URL contiene il nome file completo (es. `/economia/2026-05-04-unicredit-commerzbank-aumento-capitale/`). Il permalink esatto si legge con `hugo list all` (colonna permalink).
 - Immagini in `static/immagini/`, referenziate come `/immagini/<slug>.jpg`.
 
 Frontmatter (virgolette doppie):
