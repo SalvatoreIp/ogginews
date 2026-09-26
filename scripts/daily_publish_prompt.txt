@@ -6,6 +6,8 @@ PASSO 1 — Scegli la notizia: con WebSearch guarda le notizie italiane e intern
 
 PASSO 2 — Verifica: conferma ogni fatto su ALMENO due testate diverse. Annota gli URL reali delle fonti. Niente nomi, cifre o citazioni che non trovi scritti nelle fonti: nel dubbio parafrasa o ometti.
 
+DATA DELL'ARTICOLO: nel frontmatter usa l'ora attuale presa con `date +%Y-%m-%dT%H:%M:%S%:z`, mai un orario futuro (Hugo non pubblica gli articoli con data futura). L'orario del cron citato in CLAUDE.md non c'entra.
+
 PASSO 3 — Scrivi seguendo CLAUDE.md (700-1000 parole, struttura I fatti / Il contesto / Cosa succede adesso / In sintesi, fonti con link reali in fondo). File: content/<sezione>/YYYY-MM-DD-slug.md con la data di oggi. Sezione tra: attualita, economia, guerre, scienza, curiosita.
 
 Immagine con ElevenLabs (~185 crediti):
