@@ -39,3 +39,11 @@
 </script>
 
 <meta name="msvalidate.01" content="9AE195732086E07742051AC5A6F4FC8A" />
+
+<!-- 24/10/2026 contatore dei clic verso Amazon (account affiliato chiuso: misuriamo i clic prima di ricandidarci).
+     Nessun cookie: manda solo sito, pagina e link a vai.guida-energia.com (server della VPS, ~/contaclic). -->
+<script>
+document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a'):null;if(!a)return;
+ var h=a.href||'';if(!/amazon\.|amzn\.|\/vai\//i.test(h))return;
+ try{navigator.sendBeacon('https://vai.guida-energia.com/clic',JSON.stringify({s:'news',p:location.pathname,u:h}))}catch(x){}},true);
+</script>
